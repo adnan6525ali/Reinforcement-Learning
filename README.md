@@ -7,5 +7,5 @@ Lab Task - 3 :- GridWorld – Policy Evaluation and Value Iteration - Study the 
 
 Lab Task - 4 :- MATLAB Reinforcement Learning Onramp: Agent Training & Learning Curve.
 
-LaB Task -5 :- Taxi Route Optimization using Q-Learning
+Lab Task - 5 :- Taxi Route Optimization using Q-Learning
 A Reinforcement Learning project using Q-Learning and the Gymnasium Taxi-v4 environment.
