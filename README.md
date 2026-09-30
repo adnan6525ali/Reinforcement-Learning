@@ -6,3 +6,6 @@ https://jinglescode.github.io/reinforcement-learning-tic-tac-toe/
 Lab Task - 3 :- GridWorld – Policy Evaluation and Value Iteration - Study the GridWorld environment and understand its structure, including states, actions, rewards, and terminal states.
 
 Lab Task - 4 :- MATLAB Reinforcement Learning Onramp: Agent Training & Learning Curve.
+
+LaB Task -5 :- Taxi Route Optimization using Q-Learning
+A Reinforcement Learning project using Q-Learning and the Gymnasium Taxi-v4 environment.
